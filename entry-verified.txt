@@ -1,0 +1,1 @@
+My agent reads 200,000 tokens of context, forgets the first sentence, and still opens every reply like it remembers your childhood.
